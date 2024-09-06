@@ -32,7 +32,7 @@ Gerekli kütüphaneleri yükleyin:
 ## Kullanım
 Terminal veya komut istemcisinde projeyi çalıştırın:
   ```bash
-  python sudoku_solver.py
+  python sudoku.py
   ```
 Uygulama başlatıldığında, otomatik olarak oluşturulan bir Sudoku tahtası göreceksiniz.
 
